@@ -6,10 +6,16 @@
 
 *Projeto visa a análise tendenciosa de padrões para prever a inadimplência de clientes*
 
+**estratégias:**
+
 *IDE > SPYDER*
 
 *linguagens utilizadas:*
 
 *explicação do funcionamento comentado em code*
 
-mit.
+## Dependências
+
+```bash
+
+MIT LICENSE ©
