@@ -6,11 +6,11 @@
 
 *Projeto visa a análise tendenciosa de padrões para prever a inadimplência de clientes*
 
-**estratégias:**
+**estratégias: Value at Risk (minimizador de perdas bancárias regulado por % de carteira e suas constâncias no pagamento)**
 
 *IDE > SPYDER*
 
-*linguagens utilizadas:*
+*linguagens/bibliotecas utilizadas: sql, sas, python, interface, pyspark, apache airflow *
 
 *explicação do funcionamento comentado em code*
 
