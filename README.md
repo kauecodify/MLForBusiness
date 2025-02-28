@@ -10,7 +10,7 @@
 
 *IDE > SPYDER*
 
-*linguagens/bibliotecas utilizadas: sql, sas, python, interface, pyspark, apache airflow *
+*linguagens/bibliotecas utilizadas: sql, sas, python, interface, pyspark, apache airflow*
 
 *explicação do funcionamento comentado em code*
 
